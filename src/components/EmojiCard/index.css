@@ -1,0 +1,24 @@
+.emoji-image {
+  min-width: 80px;
+  min-height: 80px;
+}
+
+.emoji-card {
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+  align-items: center;
+  width: 250px;
+  height: 130px;
+  margin: 30px;
+  background-color: #ffffff33;
+}
+button {
+  background-color: transparent;
+  border: 0;
+}
+
+li {
+  list-style-type: none;
+}
